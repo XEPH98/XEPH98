@@ -1,7 +1,7 @@
 text = 'mrttaqrhknsw ih puggrur'
 custom_key = 'happycoding'
 text1 = 'this too shall pass.'
-custom_key1 = 'being'
+custom_key1 = 'gold'
 
 def vigenere(message, key, direction=1):
     key_index = 0
@@ -38,5 +38,7 @@ decryption = decrypt(text, custom_key)
 print(f'\nDecrypted text: {decryption}\n')
 """
 encryption = encrypt(text1, custom_key1)
-print(f'Plain Text: {text1} | Key: {custom_key1}')
+#print(f'Plain Text: {text1} | Key: {custom_key1}')
 print(f'Encrypted text: {encryption}')
+
+print(f"Decrypt the text: {decrypt(encryption,custom_key1)}")
