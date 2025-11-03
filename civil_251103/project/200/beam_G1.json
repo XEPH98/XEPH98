@@ -1,0 +1,13 @@
+{
+    "beam_name":"G1",
+    "ht_mm":400,
+    "bw_mm":300,
+    "top_bar_ss":4,
+    "bot_bar_ss":4,
+    "top_bar_ms":4,
+    "bot_bar_ms":4,
+    "db_main_mm":20,
+    "db_tie_mm":12,
+    "ccover_mm":40,
+    "db_web_mm":16
+}
