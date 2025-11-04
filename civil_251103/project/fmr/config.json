@@ -1,0 +1,16 @@
+{
+    "beam_name":"Bamboo_100mm_dia",
+    "dia_mm":100,
+    "span_mm":4000,
+    "spacing_mm":200,
+    "Fb_MPa":80,
+    "Fv_MPa":7,
+    "Fc_MPa":41,
+    "Ft_MPa":90,
+    "E_bending_GPa":14,
+    "E_tensile_GPa":10,
+    "E_combined_GPa":11,
+    "E_compress_GPA":9,
+    "source":"Mechanical Properties obtained from American Bamboo Society (bamboo.org) Journal #29 (See saved pdf on CivilEngg>Bamboo)"
+    
+}
